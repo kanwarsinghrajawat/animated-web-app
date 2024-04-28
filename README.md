@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
-First, run the development server:
+1. Title of the project
+2. Technology stack/libraries used
+3. Steps to run/build the project
+4. A public Video link (5-10 min) explaining demo of the project
+5. A vercel or any other public hosted link
+6. A paragraph explaining how you approached the task.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Title: Develop a ASTRIX-Animated-WebApp.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Technology Used: Nextjs, Tailwind
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Libraries Used : Framer-motion, REact-slick.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Steps to run the Project:
+  First clone the Project
+  Do npm i to install the packages
+  To start the server run: npm run dev
 
-## Learn More
+- Vedio Demo of the Project: "https://drive.google.com/file/d/1pLljvr2rhWNzReVIlQYn_8GwClIOCNOc/view?usp=sharing"
 
-To learn more about Next.js, take a look at the following resources:
+- Vercel Live Link : "https://wasserstoff-animated-web-app.vercel.app/"
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- How I approached this task:
+  I began by reviewing the provided PDF to understand the assignment and its requirements. Following that, I accessed the Figma link to grasp what was needed for the project. Subsequently, I deliberated on the libraries necessary to implement these functionalities. After researching the libraries, I thought a structure in my mind regarding how to commence with this component and other related aspects. With this groundwork completed, I proceeded to start the project, adhering to this approach throughout the task.
