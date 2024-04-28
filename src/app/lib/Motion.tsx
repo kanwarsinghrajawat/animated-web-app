@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 const Motion = ({ children }: any) => {
   return (
     <>
+      {/* Motion Transition Div on home page */}
       <motion.div
         initial={{ x: "-20%" }}
         animate={{ x: "-5%" }}

@@ -4,6 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 export default function Carousel() {
+  // Carousel Settings
   const settings = {
     dots: false,
     infinite: true,
@@ -24,6 +25,7 @@ export default function Carousel() {
     ],
   };
   return (
+    // Slider on the Party page
     <Slider {...settings} className="carousel-container">
       <div>
         <img src="/9.png" alt="" />

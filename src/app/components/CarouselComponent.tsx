@@ -10,6 +10,7 @@ const CarouselComponent = () => {
         <p className="text-[rgb(68,70,73)] text-9xl font-extrabold">ASTRIX</p>
         <p className="text-[rgb(68,70,73)] text-9xl font-extrabold">EVENTS</p>
         <div className="absolute top-[20%] z-10 left-[20%] right-[0%] ">
+          {/* Carousel Component */}
           <Carousel />
         </div>
         <div className="gap-4 flex pt-8 ">

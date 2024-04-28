@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 const MotionImage = () => {
   return (
     <>
+      {/* Motion Image on the Home Page */}
       <motion.img
         src="/p6.png"
         className="w-full h-20 z-10 right-0"
